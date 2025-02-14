@@ -8,6 +8,7 @@ public class Pattern1 {
             for(int j=1;j<=row;j++){
                 System.out.print("*");
             }
+       
             System.out.println();
         }
     }
